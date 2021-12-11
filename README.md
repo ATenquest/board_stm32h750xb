@@ -1,2 +1,3 @@
-# zhuanxin
-不试试怎么知道
+# Development board
+
+MCU:STM32h750xb
