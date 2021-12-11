@@ -18,4 +18,8 @@ MCU:STM32h750xb
 
 # Hardware
 
+SCH 、PCB
+
 # Software
+
+basic code
