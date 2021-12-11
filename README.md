@@ -15,3 +15,7 @@ MCU:STM32h750xb
 9. USB
 10. USB-VPC
 11. USB-TypeC
+
+# Hardware
+
+# Software
