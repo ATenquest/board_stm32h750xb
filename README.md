@@ -2,7 +2,7 @@
 
 MCU:STM32h750xb
 
-# Function
+# Peripheral
 
 With the development board,stm32 chip can provide follwing function pins:
 
