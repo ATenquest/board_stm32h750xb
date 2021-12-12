@@ -1,24 +1,55 @@
-# Development board
+# STM32H7_Development board
 
-MCU:STM32h750xb
+In order to be familiar with STM32h750 chip and TouchGFX, I diy a development board.With some peripherals,we can use the board for helping you.
+
+## Specifications
+
++ STM32H750VB Cortex-M7
++
 
 # Peripheral
 
 With the development board,stm32 chip can provide follwing function pins:
 
-1. SWD
-2. ADC
-3. DAC
-4. FMC
-5. LCD
-6. SPI
-7. I2C
-8. SDMMC
-9. USB
-10. USB-VPC
-11. USB-TypeC
+## SWD
+
+SWD debug/download
+
+## ADC
+
+## DAC
+
+## FMC
+
+off-chip  sdram
+
+## LCD
+
+RGB
+
+## SPI
+
+## I2C
+
+## SDMMC(microSD)
+
+## UART/USART
+
+## USB
+
+usb type-c include usb 2.0 and charge
+
+## Camera
+
+digital camera interface
+
+## HDMI
+
+## Exposed pins
 
 # Hardware
+
+Hardware Version 1.0
 
 ## DateSheet
 
@@ -34,6 +65,10 @@ PCB software tools used:
 
 # Software
 
+Software Version 1.0
+
+## Firmware
+
 ## STM32
 
 software drive environment
@@ -45,3 +80,15 @@ the software tools used:
 2.TouchGFX
 
 3.Keil
+
+# Update details
+
+## V1.0(2021-12-12)
+
+Hardware VR:1.0
+
+Provide board-hardware details
+
+Software VR:1.0
+
+Provide board-software details
