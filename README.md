@@ -4,6 +4,8 @@ MCU:STM32h750xb
 
 # Function
 
+With the development board,stm32 chip can provide follwing function pins:
+
 1. SWD
 2. ADC
 3. DAC
@@ -18,8 +20,28 @@ MCU:STM32h750xb
 
 # Hardware
 
-SCH 、PCB
+## DateSheet
+
+the information of chip used on the board
+
+## PCB
+
+PCB software tools used:
+
+1.Altuim designer
+
+2.嘉立创打板软件
 
 # Software
 
-basic code
+## STM32
+
+software drive environment
+
+the software tools used:
+
+1.STM32cubeMX/STM32cubeIDE
+
+2.TouchGFX
+
+3.Keil
